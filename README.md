@@ -10,4 +10,4 @@ Additional features we applied includes progress bar, highlighting the current a
 
 ## View it live
 
-https://adoring-pike-ce52b8.netlify.app/
+https://reduxquiz-tech.netlify.app/
